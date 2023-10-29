@@ -7,7 +7,7 @@
 I'm Nerea, a Japanese Studies graduate, with a master in Japanese Art. I am currently enrolled in 42 Madrid's computer science campus, learning and getting ready to face a new adventure! 
 I hope to mix this new knowledge with my previous experiences.
 
-I am currently focused on learning C programming and Unix system administration, but I've also got a keen interest in cybersecurity. Nice to meet you! 👋
+I am currently focused on learning C programming and Unix systems administration, but I've also got a keen interest in cybersecurity. Nice to meet you! 👋
 
 ## Technologies & Tools:
 <div align="center">
